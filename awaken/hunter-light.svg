@@ -33,66 +33,66 @@
 
 </defs>
 <path d="M18 4H836V226L822 240H4V18Z" fill="#ffffff"/>
-<path d="M18 4H836V40H4V18Z" fill="#eef3fb"/>
-<line x1="4" y1="40.5" x2="836" y2="40.5" stroke="#d5deee"/>
-<text x="420" y="27" class="wtitle" fill="#1f5fd6" text-anchor="middle">[ HUNTER LICENSE ]</text>
-<path d="M18.4 4.8H835.3V225.6L821.5 239.3H4.8V18.4Z" fill="none" stroke="#6f8fc4" stroke-width="1.5"/>
-<path class="breathe" d="M825 1H839V15M1 229V243H15" fill="none" stroke="#1f5fd6" stroke-width="2"/>
-<text x="58" y="62" class="label" fill="#4a5a7c" text-anchor="middle">RANK</text>
+<path d="M18 4H836V40H4V18Z" fill="#f4f3f5"/>
+<line x1="4" y1="40.5" x2="836" y2="40.5" stroke="#e4e2e7"/>
+<text x="420" y="27" class="wtitle" fill="#6a45d6" text-anchor="middle">[ HUNTER LICENSE ]</text>
+<path d="M18.4 4.8H835.3V225.6L821.5 239.3H4.8V18.4Z" fill="none" stroke="#9484cb" stroke-width="1.5"/>
+<path class="breathe" d="M825 1H839V15M1 229V243H15" fill="none" stroke="#6a45d6" stroke-width="2"/>
+<text x="58" y="62" class="label" fill="#5b4e80" text-anchor="middle">RANK</text>
 <g class="pulse">
 
-<path d="M28 72H96V140L88 148H20V80Z" fill="#f4f7fc"/>
+<path d="M28 72H96V140L88 148H20V80Z" fill="#f6f3fd"/>
 <path d="M28.2 72.5H95.5V139.8L87.8 147.5H20.5V80.2Z" fill="none" stroke="#7a8292" stroke-width="1"/>
 <text x="58" y="127.3" class="hero" fill="#7a8292" text-anchor="middle">E</text>
 
 </g>
-<text x="58" y="168" class="caption" fill="#0d1830" text-anchor="middle">TOP 63%</text>
-<text x="124" y="78" class="name" fill="#0d1830">longbe126</text>
-<text x="124" y="100" class="body" fill="#4a5a7c">Nguyễn Văn Long</text>
-<text x="124" y="122" class="body" fill="#0d1830">Blade Master · Lightning · LV. 4</text>
-<text x="124" y="144" class="label" fill="#4a5a7c">TITLE</text><text x="176" y="144" class="strong flicker" fill="#1f5fd6">Night Owl</text>
-<text x="124" y="166" class="caption" fill="#4a5a7c">AWAKENED 2024-10-17</text>
+<text x="58" y="168" class="caption" fill="#1a1033" text-anchor="middle">TOP 63%</text>
+<text x="124" y="78" class="name" fill="#1a1033">longbe126</text>
+<text x="124" y="100" class="body" fill="#5b4e80">Nguyễn Văn Long</text>
+<text x="124" y="122" class="body" fill="#1a1033">Blade Master · Lightning · LV. 4</text>
+<text x="124" y="144" class="label" fill="#5b4e80">TITLE</text><text x="176" y="144" class="strong flicker" fill="#6a45d6">Night Owl</text>
+<text x="124" y="166" class="caption" fill="#5b4e80">AWAKENED 2024-10-17</text>
 <g>
 
-<path d="M458 64H500V90L494 96H452V70Z" fill="#f4f7fc"/>
+<path d="M458 64H500V90L494 96H452V70Z" fill="#f6f3fd"/>
 <path d="M458.2 64.5H499.5V89.8L493.8 95.5H452.5V70.2Z" fill="none" stroke="#4f6d8f" stroke-width="1"/>
 <text x="476" y="87.2" class="rank" fill="#4f6d8f" text-anchor="middle">D</text>
 
-</g><text x="510" y="70" class="label" fill="#4a5a7c">STR</text><text x="510" y="88" class="value" fill="#0d1830">55</text><text x="510" y="103" class="code" fill="#4a5a7c">TOP 47%</text>
+</g><text x="510" y="70" class="label" fill="#5b4e80">STR</text><text x="510" y="88" class="value" fill="#1a1033">55</text><text x="510" y="103" class="code" fill="#5b4e80">TOP 47%</text>
 <g>
 
-<path d="M582 64H624V90L618 96H576V70Z" fill="#f4f7fc"/>
+<path d="M582 64H624V90L618 96H576V70Z" fill="#f6f3fd"/>
 <path d="M582.2 64.5H623.5V89.8L617.8 95.5H576.5V70.2Z" fill="none" stroke="#7a8292" stroke-width="1"/>
 <text x="600" y="87.2" class="rank" fill="#7a8292" text-anchor="middle">E</text>
 
-</g><text x="634" y="70" class="label" fill="#4a5a7c">AGI</text><text x="634" y="88" class="value" fill="#0d1830">0</text><text x="634" y="103" class="code" fill="#4a5a7c">TOP 100%</text>
+</g><text x="634" y="70" class="label" fill="#5b4e80">AGI</text><text x="634" y="88" class="value" fill="#1a1033">0</text><text x="634" y="103" class="code" fill="#5b4e80">TOP 100%</text>
 <g>
 
-<path d="M706 64H748V90L742 96H700V70Z" fill="#f4f7fc"/>
+<path d="M706 64H748V90L742 96H700V70Z" fill="#f6f3fd"/>
 <path d="M706.2 64.5H747.5V89.8L741.8 95.5H700.5V70.2Z" fill="none" stroke="#7a8292" stroke-width="1"/>
 <text x="724" y="87.2" class="rank" fill="#7a8292" text-anchor="middle">E</text>
 
-</g><text x="758" y="70" class="label" fill="#4a5a7c">INT</text><text x="758" y="88" class="value" fill="#0d1830">0</text><text x="758" y="103" class="code" fill="#4a5a7c">TOP 100%</text>
+</g><text x="758" y="70" class="label" fill="#5b4e80">INT</text><text x="758" y="88" class="value" fill="#1a1033">0</text><text x="758" y="103" class="code" fill="#5b4e80">TOP 100%</text>
 <g>
 
-<path d="M458 128H500V154L494 160H452V134Z" fill="#f4f7fc"/>
+<path d="M458 128H500V154L494 160H452V134Z" fill="#f6f3fd"/>
 <path d="M458.4 129H499V153.6L493.6 159H453V134.4Z" fill="none" stroke="#a23cd6" stroke-width="2"/>
 <text x="476" y="151.2" class="rank" fill="#a23cd6" text-anchor="middle">A</text>
 
-</g><text x="510" y="134" class="label" fill="#4a5a7c">VIT</text><text x="510" y="152" class="value" fill="#0d1830">9</text><text x="510" y="167" class="code" fill="#4a5a7c">TOP 8.5%</text>
+</g><text x="510" y="134" class="label" fill="#5b4e80">VIT</text><text x="510" y="152" class="value" fill="#1a1033">9</text><text x="510" y="167" class="code" fill="#5b4e80">TOP 8.5%</text>
 <g>
 
-<path d="M582 128H624V154L618 160H576V134Z" fill="#f4f7fc"/>
+<path d="M582 128H624V154L618 160H576V134Z" fill="#f6f3fd"/>
 <path d="M582.2 128.5H623.5V153.8L617.8 159.5H576.5V134.2Z" fill="none" stroke="#7a8292" stroke-width="1"/>
 <text x="600" y="151.2" class="rank" fill="#7a8292" text-anchor="middle">E</text>
 
-</g><text x="634" y="134" class="label" fill="#4a5a7c">LUK</text><text x="634" y="152" class="value" fill="#0d1830">0</text><text x="634" y="167" class="code" fill="#4a5a7c">TOP 100%</text>
+</g><text x="634" y="134" class="label" fill="#5b4e80">LUK</text><text x="634" y="152" class="value" fill="#1a1033">0</text><text x="634" y="167" class="code" fill="#5b4e80">TOP 100%</text>
 <g>
 
-<path d="M706 128H748V154L742 160H700V134Z" fill="#f4f7fc"/>
+<path d="M706 128H748V154L742 160H700V134Z" fill="#f6f3fd"/>
 <path d="M706.2 128.5H747.5V153.8L741.8 159.5H700.5V134.2Z" fill="none" stroke="#7a8292" stroke-width="1"/>
 <text x="724" y="151.2" class="rank" fill="#7a8292" text-anchor="middle">E</text>
 
-</g><text x="758" y="134" class="label" fill="#4a5a7c">CHA</text><text x="758" y="152" class="value" fill="#0d1830">0</text><text x="758" y="167" class="code" fill="#4a5a7c">TOP 100%</text>
-<text x="820" y="226" class="code" fill="#4a5a7c" text-anchor="end">@longbe126 · SYNCED 2026-10-25</text>
+</g><text x="758" y="134" class="label" fill="#5b4e80">CHA</text><text x="758" y="152" class="value" fill="#1a1033">0</text><text x="758" y="167" class="code" fill="#5b4e80">TOP 100%</text>
+<text x="820" y="226" class="code" fill="#5b4e80" text-anchor="end">@longbe126 · SYNCED 2026-10-25</text>
 </svg>

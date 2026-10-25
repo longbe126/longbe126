@@ -32,15 +32,15 @@
 <linearGradient id="prism" x1="0" x2="1"><stop offset="0" stop-color="#ff3d5e" stop-opacity="0"/><stop offset=".3" stop-color="#ffc53d" stop-opacity=".45"/><stop offset=".5" stop-color="#3fd6f0" stop-opacity=".55"/><stop offset=".7" stop-color="#d77bff" stop-opacity=".45"/><stop offset="1" stop-color="#3ecf8e" stop-opacity="0"/></linearGradient>
 
 </defs>
-<g class="pulse"><path d="M18 4H416V262L402 276H4V18Z" fill="#0b1426"/>
-<path d="M18 4H416V40H4V18Z" fill="#111d36"/>
-<line x1="4" y1="40.5" x2="416" y2="40.5" stroke="#1c2c4f"/>
+<g class="pulse"><path d="M18 4H416V262L402 276H4V18Z" fill="#100b1f"/>
+<path d="M18 4H416V40H4V18Z" fill="#1b162a"/>
+<line x1="4" y1="40.5" x2="416" y2="40.5" stroke="#2a253a"/>
 <text x="210" y="27" class="wtitle" fill="#ff5c74" text-anchor="middle">[ PENALTY ZONE ]</text>
 <path d="M18.4 4.8H415.3V261.6L401.6 275.3H4.8V18.4Z" fill="none" stroke="#ff5c74" stroke-width="1.5"/>
 <path class="breathe" d="M405 1H419V15M1 265V279H15" fill="none" stroke="#ff5c74" stroke-width="2" filter="url(#glow)"/></g>
 <text x="20" y="86" class="level flicker" fill="#ff5c74" filter="url(#glow-lg)">STREAK LOST</text>
-<text x="20" y="112" class="body" fill="#e6edf7">No contribution on 2026-10-25.</text>
-<text x="20" y="130" class="body" fill="#e6edf7">The System has moved you to the Penalty Zone.</text>
-<text x="20" y="164" class="label" fill="#8a9bc0">DAYS IN ZONE</text><text x="400" y="164" class="value" fill="#e6edf7" text-anchor="end">13</text><line x1="20" y1="172.5" x2="400" y2="172.5" stroke="#1c2c4f"/><text x="20" y="189" class="label" fill="#8a9bc0">LAST CONTRIBUTION</text><text x="400" y="189" class="value" fill="#e6edf7" text-anchor="end">2026-10-11</text><line x1="20" y1="197.5" x2="400" y2="197.5" stroke="#1c2c4f"/><text x="20" y="214" class="label" fill="#8a9bc0">ESCAPE</text><text x="400" y="214" class="value" fill="#e6edf7" text-anchor="end">1 contribution today</text><line x1="20" y1="222.5" x2="400" y2="222.5" stroke="#1c2c4f"/>
-<text x="400" y="262" class="code" fill="#8a9bc0" text-anchor="end">@longbe126 · SYNCED 2026-10-25</text>
+<text x="20" y="112" class="body" fill="#ece6ff">No contribution on 2026-10-25.</text>
+<text x="20" y="130" class="body" fill="#ece6ff">The System has moved you to the Penalty Zone.</text>
+<text x="20" y="164" class="label" fill="#a397c7">DAYS IN ZONE</text><text x="400" y="164" class="value" fill="#ece6ff" text-anchor="end">13</text><line x1="20" y1="172.5" x2="400" y2="172.5" stroke="#2a253a"/><text x="20" y="189" class="label" fill="#a397c7">LAST CONTRIBUTION</text><text x="400" y="189" class="value" fill="#ece6ff" text-anchor="end">2026-10-11</text><line x1="20" y1="197.5" x2="400" y2="197.5" stroke="#2a253a"/><text x="20" y="214" class="label" fill="#a397c7">ESCAPE</text><text x="400" y="214" class="value" fill="#ece6ff" text-anchor="end">1 contribution today</text><line x1="20" y1="222.5" x2="400" y2="222.5" stroke="#2a253a"/>
+<text x="400" y="262" class="code" fill="#a397c7" text-anchor="end">@longbe126 · SYNCED 2026-10-25</text>
 </svg>
