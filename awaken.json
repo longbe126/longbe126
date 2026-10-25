@@ -1,8 +1,11 @@
 {
   "username": "longbe126",
   "layout": "default",
-  "theme": "solo_leveling",
+  "theme": "shadow_monarch",
   "activity": "arise",
   "title": "auto",
-  "timezone": "Asia/Ho_Chi_Minh"
+  "timezone": "Asia/Ho_Chi_Minh",
+  "icons": "rune",
+  "motion": "full",
+  "hours": true
 }
