@@ -78,7 +78,7 @@
     {
       "id": "night-owl",
       "tier": 3,
-      "value": 55
+      "value": 54
     },
     {
       "id": "early-bird",
@@ -93,7 +93,7 @@
     {
       "id": "gate-opener",
       "tier": 1,
-      "value": 8
+      "value": 7
     },
     {
       "id": "raider",
@@ -178,6 +178,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-09",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-11-08",
         "cleared": 2,
@@ -265,5 +270,5 @@
       "commit"
     ]
   },
-  "syncedAt": "2026-11-08T21:05:44.979Z"
+  "syncedAt": "2026-11-10T00:39:55.415Z"
 }
