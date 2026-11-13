@@ -1,21 +1,21 @@
 {
   "login": "longbe126",
-  "level": 4,
-  "overall": "E",
-  "overallPercentile": 0.39523941572458554,
+  "level": 5,
+  "overall": "D",
+  "overallPercentile": 0.41747121470076853,
   "layout": "default",
   "class": {
     "name": "Blade Master",
     "element": "Lightning",
     "from": "TypeScript"
   },
-  "title": "Night Owl",
+  "title": "Polyglot",
   "stats": [
     {
       "code": "STR",
-      "value": 72,
-      "rank": "D",
-      "percentile": 0.5998578142364807
+      "value": 112,
+      "rank": "C",
+      "percentile": 0.7027077721003585
     },
     {
       "code": "AGI",
@@ -31,9 +31,9 @@
     },
     {
       "code": "VIT",
-      "value": 10,
-      "rank": "A",
-      "percentile": 0.9348315269247548
+      "value": 11,
+      "rank": "S",
+      "percentile": 0.9499142157630279
     },
     {
       "code": "LUK",
@@ -49,6 +49,48 @@
     }
   ],
   "events": [
+    {
+      "kind": "level",
+      "subject": "Level",
+      "from": "4",
+      "to": "5",
+      "at": "2026-11-13T22:32:14.318Z"
+    },
+    {
+      "kind": "overall",
+      "subject": "Overall rank",
+      "from": "E",
+      "to": "D",
+      "at": "2026-11-13T22:32:14.318Z"
+    },
+    {
+      "kind": "stat",
+      "subject": "STR",
+      "from": "D",
+      "to": "C",
+      "at": "2026-11-13T22:32:14.318Z"
+    },
+    {
+      "kind": "stat",
+      "subject": "VIT",
+      "from": "A",
+      "to": "S",
+      "at": "2026-11-13T22:32:14.318Z"
+    },
+    {
+      "kind": "achievement",
+      "subject": "relentless",
+      "from": "0",
+      "to": "1",
+      "at": "2026-11-13T22:32:14.318Z"
+    },
+    {
+      "kind": "achievement",
+      "subject": "boss-slayer",
+      "from": "0",
+      "to": "1",
+      "at": "2026-11-13T22:32:14.318Z"
+    },
     {
       "kind": "achievement",
       "subject": "escape-artist",
@@ -75,28 +117,28 @@
     },
     {
       "id": "relentless",
-      "tier": 0,
-      "value": 72
+      "tier": 1,
+      "value": 112
     },
     {
       "id": "unbroken",
       "tier": 0,
-      "value": 3
+      "value": 5
     },
     {
       "id": "night-owl",
-      "tier": 3,
-      "value": 45
+      "tier": 2,
+      "value": 44
     },
     {
       "id": "early-bird",
       "tier": 0,
-      "value": 6
+      "value": 7
     },
     {
       "id": "weekend-warrior",
       "tier": 0,
-      "value": 16
+      "value": 17
     },
     {
       "id": "gate-opener",
@@ -146,32 +188,32 @@
     {
       "id": "berserker",
       "tier": 1,
-      "value": 15
+      "value": 19
     },
     {
       "id": "diligent",
       "tier": 0,
-      "value": 19
+      "value": 30
     },
     {
       "id": "daily-grinder",
       "tier": 0,
-      "value": 0
+      "value": 1
     },
     {
       "id": "perfect-week",
       "tier": 0,
-      "value": 0
+      "value": 1
     },
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 8
+      "value": 11
     },
     {
       "id": "boss-slayer",
-      "tier": 0,
-      "value": 0
+      "tier": 1,
+      "value": 1
     },
     {
       "id": "escape-artist",
@@ -181,11 +223,16 @@
     {
       "id": "collector",
       "tier": 0,
-      "value": 2
+      "value": 3
     }
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-13",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-11-12",
         "cleared": 2,
@@ -282,16 +329,19 @@
         "total": 3
       }
     ],
-    "perfectDays": 0,
-    "run": 0,
-    "bestRun": 0,
-    "questsDone": 8,
-    "bosses": [],
+    "perfectDays": 1,
+    "run": 1,
+    "bestRun": 1,
+    "questsDone": 11,
+    "bosses": [
+      "2026-11-09"
+    ],
     "escapes": 3,
     "kinds": [
       "contribute",
-      "commit"
+      "commit",
+      "two-repos"
     ]
   },
-  "syncedAt": "2026-11-12T22:41:21.019Z"
+  "syncedAt": "2026-11-13T22:32:14.318Z"
 }
