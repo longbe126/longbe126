@@ -50,6 +50,13 @@
   ],
   "events": [
     {
+      "kind": "achievement",
+      "subject": "collector",
+      "from": "0",
+      "to": "1",
+      "at": "2026-11-14T21:24:16.179Z"
+    },
+    {
       "kind": "level",
       "subject": "Level",
       "from": "4",
@@ -208,7 +215,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 11
+      "value": 13
     },
     {
       "id": "boss-slayer",
@@ -222,12 +229,17 @@
     },
     {
       "id": "collector",
-      "tier": 0,
-      "value": 3
+      "tier": 1,
+      "value": 4
     }
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-14",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-11-13",
         "cleared": 3,
@@ -330,9 +342,9 @@
       }
     ],
     "perfectDays": 1,
-    "run": 1,
+    "run": 0,
     "bestRun": 1,
-    "questsDone": 11,
+    "questsDone": 13,
     "bosses": [
       "2026-11-09"
     ],
@@ -340,8 +352,9 @@
     "kinds": [
       "contribute",
       "commit",
-      "two-repos"
+      "two-repos",
+      "three"
     ]
   },
-  "syncedAt": "2026-11-13T22:32:14.318Z"
+  "syncedAt": "2026-11-14T21:24:16.179Z"
 }
