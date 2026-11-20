@@ -69,41 +69,6 @@
       "from": "0",
       "to": "1",
       "at": "2026-11-14T21:24:16.179Z"
-    },
-    {
-      "kind": "level",
-      "subject": "Level",
-      "from": "4",
-      "to": "5",
-      "at": "2026-11-13T22:32:14.318Z"
-    },
-    {
-      "kind": "overall",
-      "subject": "Overall rank",
-      "from": "E",
-      "to": "D",
-      "at": "2026-11-13T22:32:14.318Z"
-    },
-    {
-      "kind": "stat",
-      "subject": "STR",
-      "from": "D",
-      "to": "C",
-      "at": "2026-11-13T22:32:14.318Z"
-    },
-    {
-      "kind": "stat",
-      "subject": "VIT",
-      "from": "A",
-      "to": "S",
-      "at": "2026-11-13T22:32:14.318Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "relentless",
-      "from": "0",
-      "to": "1",
-      "at": "2026-11-13T22:32:14.318Z"
     }
   ],
   "achievements": [
@@ -235,6 +200,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-20",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-11-19",
         "cleared": 0,
@@ -383,5 +353,5 @@
       "mp"
     ]
   },
-  "syncedAt": "2026-11-19T23:30:37.303Z"
+  "syncedAt": "2026-11-20T23:02:42.778Z"
 }
